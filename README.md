@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Morph1c
-- 👀 I’m interested in coding, scientific computing and mathematical models
+- 👀 I’m interested in numerical analysis, mathematical models and machine learning
 - 📫 How to reach me: mail andreatocca2503@gmail.com
 
 <!---
