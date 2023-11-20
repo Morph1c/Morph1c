@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Morph1c
+- 👋 Hi, I’m Andrea Toccaceli @Morph1c
 - 👀 I’m interested in numerical analysis, mathematical models and machine learning
 - 📫 How to reach me: mail andreatocca2503@gmail.com
 
